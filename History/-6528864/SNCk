@@ -1,0 +1,4 @@
+VITE_DOMAIN=dev-crktfga21h43a417.us.auth0.com
+VITE_CLIENTID=cdrgvD8db9RTNv6k4rlfZhj4M2wrM0UL
+VITE_REDIRECTURI=http://localhost:5173/
+VITE_BASE_URL=http://localhost:4000

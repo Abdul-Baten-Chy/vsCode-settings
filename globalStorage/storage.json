@@ -1,0 +1,150 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///c%3A/Users/Windex%20IT%20Care/Documents/task-management-app/clientSide": "__default__profile__",
+            "file:///d%3A/Projects/task-management-app/server-side": "__default__profile__",
+            "file:///d%3A/Projects/task-management-app/task-management-server": "__default__profile__",
+            "file:///d%3A/projects/task-management-app/server_todo": "__default__profile__",
+            "file:///d%3A/Projects/task-management-app/server_todo": "__default__profile__",
+            "file:///d%3A/Projects/task-management-app/clientSide": "__default__profile__",
+            "file:///d%3A/Projects/New%20folder": "__default__profile__",
+            "file:///d%3A/Projects/rnext": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/Assaignmnet/rnext-assignment-1": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/rnext-assignment-1": "__default__profile__",
+            "file:///c%3A/Users/Windex%20IT%20Care/Downloads/rnext-assignment-2": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/rnext-2.4": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/Assaignmnet/schoolMgt/src": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/rnext-assignment-3": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/rnext-3.8": "__default__profile__",
+            "file:///c%3A/Users/Windex%20IT%20Care/Downloads/rnext-2.10": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/Assaignmnet/task-management": "__default__profile__",
+            "file:///c%3A/Users/Windex%20IT%20Care/Downloads/react-search-filter-main": "__default__profile__",
+            "file:///c%3A/Users/Windex%20IT%20Care/Downloads/rnext-4.10": "__default__profile__",
+            "file:///d%3A/Projects": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/rnext": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/Assaignmnet/NewsFeed": "__default__profile__",
+            "file:///c%3A/Users/Windex%20IT%20Care/Downloads/rnext-assignment-4": "__default__profile__",
+            "file:///d%3A/Projects/NotesWithCode/ceneRentel": "__default__profile__",
+            "file:///d%3A/Projects/NotesWithCode/taskmanger": "__default__profile__",
+            "file:///d%3A/Projects/Reducers": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/Assaignmnet/schoolMgt": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/Assaignmnet/BookStore": "__default__profile__",
+            "file:///d%3A/Projects/ToyStoreServer": "__default__profile__",
+            "file:///d%3A/Projects/toyStore": "__default__profile__",
+            "file:///d%3A/Projects/useReducer": "__default__profile__",
+            "file:///d%3A/Projects/practiseProject/contextApi": "__default__profile__",
+            "file:///d%3A/Projects/practiseProject/toyStore": "__default__profile__",
+            "file:///d%3A/Projects/NotesWithCode/tanstacQuery": "__default__profile__",
+            "file:///d%3A/Projects/NotesWithCode/FormHooks": "__default__profile__",
+            "file:///d%3A/Projects/AssaignMent_phero/ShareMeal/server": "__default__profile__",
+            "file:///d%3A/Projects/AssaignMent_phero/ShareMeal/clientSide": "__default__profile__",
+            "file:///d%3A/Projects/AssaignMent_phero/ShareMeal/Server": "__default__profile__",
+            "file:///d%3A/Projects/Smart_HR/server": "__default__profile__",
+            "file:///d%3A/Projects/Smart_HR/ClientSide": "__default__profile__",
+            "file:///d%3A/Projects/Smart_HR/serverSide": "__default__profile__",
+            "file:///d%3A/Projects/express-js-tutorial": "__default__profile__",
+            "file:///d%3A/Projects/Youtube/chai-backend-main": "__default__profile__",
+            "file:///c%3A/Users/Windex%20IT%20Care/Videos/bistro-boss-client-with-email-part_9-main": "__default__profile__",
+            "file:///c%3A/Users/Windex%20IT%20Care/Videos/bistro-boss-server-with-email-part_9-main": "__default__profile__",
+            "file:///d%3A/Projects/FeaturedProject/Smart_HR/ClientSide": "__default__profile__",
+            "file:///d%3A/Projects/FeaturedProject/Smart_HR/serverSide": "__default__profile__",
+            "file:///d%3A/Projects/NotesWithCode/lazyLoad": "__default__profile__",
+            "file:///d%3A/Projects/mobileApp/my-app": "__default__profile__",
+            "file:///d%3A/Projects/FeaturedProject/CircleUp": "__default__profile__",
+            "file:///d%3A/Projects/mern-food-ordering-app-course-resources-main/mern-food-ordering-app-backend-main": "__default__profile__",
+            "file:///d%3A/Projects/mern-food-ordering-app-course-resources-main/mern-food-ordering-app-frontend-main": "__default__profile__",
+            "file:///d%3A/Projects/FeaturedProject/HarvestHub": "__default__profile__",
+            "file:///d%3A/Projects/youtubProject": "__default__profile__",
+            "file:///d%3A/Projects/FeaturedProject/HarvestHub/clientSide": "__default__profile__",
+            "file:///d%3A/Projects/FeaturedProject/HarvestHub/serverSide": "__default__profile__",
+            "file:///d%3A/Projects/HarvestHub/ClientSide": "__default__profile__",
+            "file:///d%3A/Projects/HarvestHub/Server": "__default__profile__",
+            "file:///d%3A/Projects/HarvestHub/ClientSide/src": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/module%201": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/Assaignment/assaignment_1": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/New%20folder": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/New%20folder/batch-3-apollo-flix-conceptual-session": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/Assaignment/assaignment_2": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/firstProject": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/Ph_uni_project": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/univerSityMgt": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/Assaignment/assainment-3/RentalCarBackend": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/Ph_uni_project/Level2-Batch-3-PH-university-server": "__default__profile__",
+            "file:///d%3A/Projects/practiseProject/redux_1st/redux-1st": "__default__profile__",
+            "file:///d%3A/Projects/practiseProject/redux-one": "__default__profile__",
+            "file:///d%3A/Projects/lws_coures/redux/think-in-a-redux-way": "__default__profile__",
+            "file:///d%3A/Projects/practiseProject": "__default__profile__",
+            "file:///d%3A/Projects/practiseProject/L2B3-todo-server": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/Assaignment/assinment_3_final": "__default__profile__",
+            "file:///d%3A/Projects/practiseProject/redux_one": "__default__profile__",
+            "file:///d%3A/Projects/Level_2": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/Level2-Batch-3-PH-university-server-starter-pack": "__default__profile__",
+            "file:///d%3A/Projects/FeaturedProject/ShareMeal": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/Uni_Management/PH-university-client": "__default__profile__",
+            "file:///d%3A/Projects/Level_2/Uni_Management/PH-university-server": "__default__profile__",
+            "file:///d%3A/Projects/boilerPlate/industry-grade-project-format": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.sqmId": "{37992CAC-5C2C-453F-A765-43D152FBD871}",
+    "telemetry.machineId": "f49fca4b0a6eb0086f5d2dde4de8bbe791fa56814b556719e5840a63223ea42f",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///d%3A/Projects/Level_2/Assaignment/assainment-3/RentalCarBackend"
+            },
+            {
+                "folderUri": "file:///d%3A/Projects/Level_2/Uni_Management/PH-university-client"
+            },
+            {
+                "folderUri": "file:///d%3A/Projects/boilerPlate/industry-grade-project-format"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 42,
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 1,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "activityBarBackground": "#181818",
+            "sideBarBackground": "#181818",
+            "statusBarBackground": "#181818",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///d%3A/Projects/boilerPlate/industry-grade-project-format",
+            "backupPath": "C:\\Users\\Windex IT Care\\AppData\\Roaming\\Code\\Backups\\7464b2429b2c11b885dfb64d52e80a6c",
+            "uiState": {
+                "mode": 0,
+                "x": 171,
+                "y": 0,
+                "width": 1024,
+                "height": 728
+            }
+        },
+        "openedWindows": []
+    },
+    "telemetry.devDeviceId": "6a2a9f3d-8d41-41f5-a2bc-76c38a32850e"
+}

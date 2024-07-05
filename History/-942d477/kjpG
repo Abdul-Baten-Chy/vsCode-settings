@@ -1,0 +1,1 @@
+DATABASE_URL = mongodb+srv://emajhon:7WTyM0ETOpoHdx4N@cluster0.yjorklr.mongodb.net/emaJohnDB?retryWrites=true&w=majority&appName=Cluster0

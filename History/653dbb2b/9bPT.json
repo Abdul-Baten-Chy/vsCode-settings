@@ -1,0 +1,27 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.tslint": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "eslint.run": "onSave",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "path-autocomplete.extensionOnImport": true,
+  "path-autocomplete.excludedItems": {
+    "*/.js": {
+      "when": "**"
+    },
+    "*/.jsx": {
+      "when": "**"
+    }
+  },
+  "javascript.validate.enable": true,
+  "typescript.validate.enable": true,
+  "window.zoomLevel": 1,
+  "editor.linkedEditing": true,
+  "liveServer.settings.donotShowInfoMsg": true
+}

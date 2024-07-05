@@ -1,0 +1,4 @@
+PORT=3000
+DATABASE =mongodb+srv://emajhon:7WTyM0ETOpoHdx4N@cluster0.yjorklr.mongodb.net/emaJohnDB?retryWrites=true&w=majority&appName=Cluster0
+BCRYPT_ROUND=10
+DEFOULT_PASS:158476Abcg

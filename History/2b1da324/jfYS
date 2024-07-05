@@ -1,0 +1,3 @@
+MONGODB_URI=mongodb+srv://HarvestHub:sS9NMucLm2bPi5gl@cluster0.yjorklr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+AUTH0_AUDIENCE=harvesthub-api
+AUTH0_BASE_URL=https://dev-crktfga21h43a417.us.auth0.com/

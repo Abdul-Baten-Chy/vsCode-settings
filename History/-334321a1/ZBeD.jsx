@@ -1,0 +1,22 @@
+import { useContext } from "react";
+import { DataContext } from "../Contex/ProductData";
+
+const ProductDeatils = () => {
+  const { selectedProduct } = useContext(DataContext);
+  return (
+    <div>
+      <h4>Products Deatails Information</h4>
+      <div className="flex">
+        <div>
+          <img src={selectedProduct.image} alt="" className="w-3/4" />
+        </div>
+        <div>
+          <h2> Product Name: {selectedProduct.name.toUpperCase()}</h2>
+          <h3> Price: $ {selectedProduct.price}</h3>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default ProductDeatils;

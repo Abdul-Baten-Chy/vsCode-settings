@@ -1,0 +1,2 @@
+PORT=3000 
+DATABASE=mongodb+srv://productTypes:uMH0LYlIQDr3oNoP@cluster0.yjorklr.mongodb.net/productColls?retryWrites=true&w=majority&appName=Cluster0

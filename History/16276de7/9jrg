@@ -1,0 +1,6 @@
+PORT=5000
+DEFAULT_PASS=12548jhgdt
+URI=mongodb+srv://MyTesting:EsW3QH51fNs6QUSe@cluster0.yjorklr.mongodb.net/rentalCar?retryWrites=true&w=majority&appName=Cluster0
+
+NODE_ENV=development
+SECRETE_KEY=hjfyrt6459hdreytng66
